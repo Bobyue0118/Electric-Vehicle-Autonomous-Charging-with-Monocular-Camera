@@ -1,6 +1,6 @@
 # Electric Vehicle Autonomous Charging
 
-- Research on EV Charging Port Detection and Pose Estimation
+- Research on EV Autonomous Charging with Monocular Camera
 
   Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
 
