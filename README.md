@@ -1,6 +1,6 @@
 # Research on EV Autonomous Charging with Monocular Camera
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc" alt="project1" width="600">
 </div>
 
