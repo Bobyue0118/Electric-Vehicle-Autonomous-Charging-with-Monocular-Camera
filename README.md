@@ -4,16 +4,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img 
-          src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc" 
-          alt="project1" 
+      <td width="60%" align="center">
+        <img
+          src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc"
+          alt="project1"
           width="100%">
       </td>
-      <td align="center" width="50%">
-        <video 
-          src="https://github.com/user-attachments/assets/fdb3f324-b85b-418a-a853-b18a82a3a460" 
-          width="100%" 
+      <td width="40%" align="center">
+        <video
+          src="https://github.com/user-attachments/assets/fdb3f324-b85b-418a-a853-b18a82a3a460"
+          width="100%"
           controls>
         </video>
       </td>
