@@ -1,8 +1,25 @@
+
 # Research on EV Autonomous Charging with Monocular Camera
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc" alt="project1" width="600">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img 
+          src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc" 
+          alt="project1" 
+          width="100%">
+      </td>
+      <td align="center" width="50%">
+        <video 
+          src="https://github.com/user-attachments/assets/fdb3f324-b85b-418a-a853-b18a82a3a460" 
+          width="100%" 
+          controls>
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
 
