@@ -5,11 +5,10 @@
   <table>
     <tr>
       <td width="38%" align="center">
-        <video
-          src="demo/autonomous-charging-demo.mp4"
-          width="100%"
-          controls>
-        </video>
+        <img
+          src="demo/autonomous-charging-demo.gif"
+          alt="Autonomous charging demo"
+          width="100%">
       </td>
       <td width="59%" align="center">
         <img
