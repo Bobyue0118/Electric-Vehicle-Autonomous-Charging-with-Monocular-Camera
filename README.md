@@ -6,7 +6,7 @@
     <tr>
       <td width="38%" align="center">
         <video
-          src="https://github.com/user-attachments/assets/fdb3f324-b85b-418a-a853-b18a82a3a460"
+          src="demo/autonomous-charging-demo.mp4.mp4"
           width="100%"
           controls>
         </video>
