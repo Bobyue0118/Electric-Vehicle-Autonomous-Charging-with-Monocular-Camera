@@ -30,6 +30,43 @@
   </table>
 </div>
 
+<div align="center">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="20%" align="center" valign="top">
+        <img
+          src="demo/5_5_5.png.png"
+          alt="Charging setup overview"
+          width="100%">
+      </td>
+      <td width="20%" align="center" valign="top">
+        <img
+          src="demo/1023_rgb_16_21.png"
+          alt="Charging demo frame 16 21"
+          width="100%">
+      </td>
+      <td width="20%" align="center" valign="top">
+        <img
+          src="demo/1023_rgb_16_28.png"
+          alt="Charging demo frame 16 28"
+          width="100%">
+      </td>
+      <td width="20%" align="center" valign="top">
+        <img
+          src="demo/1023_rgb_16_33.png"
+          alt="Charging demo frame 16 33"
+          width="100%">
+      </td>
+      <td width="20%" align="center" valign="top">
+        <img
+          src="demo/1023_rgb_16_36.png"
+          alt="Charging demo frame 16 36"
+          width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
+
 - Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
 
 - *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/)*, 2023.03-2023.09
