@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td width="62%" align="center" valign="bottom">
+      <td width="60%" align="center" valign="bottom">
         <a href="https://www.starcharge.com/zdcdb/detail">
           <img
             src="https://web-suite-backend-oss.wbstar.com/web/1758272013124preImage.png?x-oss-process=image%2Fresize%2Cl_1920%2Ch_500%2Fformat%2Cwebp"
