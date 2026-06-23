@@ -4,13 +4,13 @@
 <div align="center">
   <table cellspacing="0" cellpadding="0">
     <tr>
-      <td width="32%" align="center" valign="top" rowspan="2">
+      <td width="38%" align="center" valign="top" rowspan="2">
         <img
           src="demo/autonomous-charging-demo.gif"
           alt="Autonomous charging demo"
           width="100%">
       </td>
-      <td width="68%" align="center" valign="top">
+      <td width="62%" align="center" valign="top">
         <img
           src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc"
           alt="project1"
@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td width="68%" align="center" valign="bottom">
+      <td width="62%" align="center" valign="bottom">
         <a href="https://www.starcharge.com/zdcdb/detail">
           <img
             src="https://web-suite-backend-oss.wbstar.com/web/1758272013124preImage.png?x-oss-process=image%2Fresize%2Cl_1920%2Ch_500%2Fformat%2Cwebp"
