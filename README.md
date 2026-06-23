@@ -4,13 +4,13 @@
 <div align="center">
   <table cellspacing="0" cellpadding="0">
     <tr>
-      <td width="38%" align="center" valign="top" rowspan="2">
+      <td width="40%" align="center" valign="top" rowspan="2">
         <img
           src="demo/autonomous-charging-demo.gif"
           alt="Autonomous charging demo"
           width="100%">
       </td>
-      <td width="62%" align="center" valign="top">
+      <td width="60%" align="center" valign="top">
         <img
           src="https://github.com/user-attachments/assets/be41e4f6-a282-4c31-a8df-2022e126e0fc"
           alt="project1"
