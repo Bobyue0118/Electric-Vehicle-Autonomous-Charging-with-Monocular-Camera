@@ -6,7 +6,7 @@
     <tr>
       <td width="38%" align="center">
         <video
-          src="demo/autonomous-charging-demo.mp4.mp4"
+          src="demo/autonomous-charging-demo.mp4"
           width="100%"
           controls>
         </video>
